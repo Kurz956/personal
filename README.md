@@ -6,7 +6,8 @@
 
 ### _Personal_
 ___
-- **age: 57**
+- **full name**: Walter E. Kurtz
+- age: 57
 - sex: male
 - family: wife (Janet Kurz), son
 - work: Colonel, Army USA
